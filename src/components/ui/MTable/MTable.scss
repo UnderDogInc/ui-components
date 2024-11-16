@@ -1,0 +1,64 @@
+.m-table {
+  &__header {
+    .sort {
+      &-desc {
+        transform: rotate(180deg);
+        > * {
+          fill: $black-900;
+        }  
+      }
+
+      &-asc {
+        transform: rotate(0deg);
+        > * {
+          fill: $black-900;
+        }
+      }
+    }
+  }
+  &__row {
+    &:hover {
+      > .table__arrow {
+        svg {
+          * {
+            fill: $black-900;
+          }
+        }
+      }
+    }
+  }
+  &__arrow {
+    svg {
+      * {
+        transition: .3s ease;
+      }
+    }
+  }
+}
+
+.list-move {
+  transition: all .3s ease;
+}
+
+.list-enter-active,
+.list-leave-active {
+  &.row-details {
+    transition: all 0.5s ease;
+  }
+}
+.list-enter-from,
+.list-leave-to {
+  &.row-details{
+    opacity: 0;
+  }
+}
+
+
+.table-scroll-enter-active,
+.table-scroll-leave-active {
+  transition: transform 30s ease;
+}
+.table-scroll-enter-from,
+.table-scroll-leave-to {
+  opacity: 0 !important;
+}

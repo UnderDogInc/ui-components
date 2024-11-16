@@ -1,0 +1,87 @@
+@tailwind utilities;
+
+.m-checkox {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+
+  &__lable {
+    @apply ui-flex ui-items-center;
+
+    > .content {
+      @apply ui-mr-[8px];
+    }
+
+    &.m-checkox-switches__lable {
+      .content {
+        @apply ui-flex ui-w-[44px] ui-transition-[background-color] ui-duration-300 ui-h-[24px] ui-rounded-[50px] ui-cursor-pointer ui-bg-black-200 ui-relative;
+        
+        &::after {
+          content: '';
+          @apply ui-absolute ui-transition ui-duration-300 ui-w-[20px] ui-h-[20px] ui-bg-white-900 ui-top-[2px] ui-left-[2px] ui-rounded-[50%] ui-shadow-[0px_2px_8px_rgba(191,_194,_200,_0.5)];
+        }
+      }
+
+    }
+
+    &:not(.m-checkox-switches__lable) {
+      .content {
+        
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        color: $black-900;
+
+        &::before {
+          content: '';
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+          flex-shrink: 0;
+          flex-grow: 0;
+          border: 2px solid $black-100;
+          border-radius: 4px;
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: center center;
+        }
+      }
+    }
+  }
+
+  &.active+.m-checkox-switches__lable {
+    .content {
+      @apply ui-bg-primary-100;
+
+      &::after {
+        @apply ui-bg-primary-900 ui-translate-x-[20px] ui-shadow-[0px_2px_8px_rgba(53,_72,_131,_0.32)];
+      }
+    }
+  }
+
+
+  &.active+.m-checkox__lable {
+    .content {
+      &::before {
+        border: 0px solid $primary-900;
+        background-color: $primary-900;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5 7.99998L7.12132 10.1213L11.364 5.87866' stroke='%23FCFCFC' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' /%3e%3c/svg%3e");    }
+    }
+  }
+  
+  &:not(:disabled):not(.active):hover+.m-checkox__lable {
+    .content {
+      &::before {
+        border: 2px solid $primary-500;
+      }
+    }
+  }
+
+  &:disabled+.m-checkox__lable {
+    .content {
+      &::before {
+        background-color: $black-50;
+      }
+    }
+  }
+}

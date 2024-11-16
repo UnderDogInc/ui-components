@@ -1,0 +1,50 @@
+.m-input {
+  outline: none;
+  transition: border-color .3s ease;
+  font-size: 14px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+
+  &--wrap {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    font-size: 12px;
+    line-height: 120%;
+
+    > .label {
+      margin-bottom: 12px;
+    }
+
+    &:hover {
+      .red-hover{
+        border-color: $red-500;
+
+        &::after {
+          border-color: $red-500;
+        }
+      }
+      .primary-hover {
+        @apply ui-border-primary-500;
+
+        &::after {
+          @apply ui-border-primary-500;
+        }
+      }
+    }
+  }
+
+  &__error {
+    font-size: 12px;
+    line-height: 120%;
+    
+    &:not(:first-child) {
+      margin-top: 6px;
+    }
+
+    &--wrap {
+      margin-top: 12px;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+@tailwind utilities;
+
+.bottom-sheet {
+  &__info-wrap {
+    > * {
+      @apply ui-text-p16 ui-text-black-900 ui-mb-[8px] last:ui-mb-0;
+    }
+  }
+
+  &-image {
+    @apply ui-w-[60px] ui-h-[60px] ui-rounded-[4px] ui-m-[4px];
+
+    &-wrap {
+      @apply -ui-m-[4px] ui-w-[calc(100%_+_4px)] ui-flex ui-flex-wrap;
+    }
+
+    > img {
+      @apply ui-w-full ui-h-full ui-object-cover;
+    }
+  }
+}

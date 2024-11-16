@@ -1,0 +1,96 @@
+@tailwind utilities;
+
+.fc-daygrid-event {
+  @apply ui-justify-between ui-items-center hover:ui-bg-black-50 ui-cursor-pointer ui-transition ui-m-[4px] ui-p-[4px] ui-bg-white-900 ui-text-black-900 ui-border ui-border-black-50 ui-rounded-base #{!important}; 
+}
+
+.fc-header-toolbar {
+  @apply ui-justify-start ui-space-x-[16px] #{!important};
+
+  .fc-toolbar-chunk {
+
+    &:first-child > * {
+      @apply ui-text-h3  ui-font-semibold #{!important};
+    }
+
+    &:last-child {
+      @apply ui-ml-auto #{!important};
+    }
+  }
+}
+
+.fc-dayGridMonth-button,
+.fc-timeGridWeek-button,
+.fc-timeGridDay-button {
+  @apply ui-px-[12px] ui-h-[40px] ui-align-middle ui-bg-transparent ui-transition hover:ui-bg-black-50 ui-rounded-base ui-border-0  ui-text-p14-semibold ui-font-semibold ui-text-black-500 #{!important};
+
+  &.fc-button-active {
+    @apply ui-bg-black-50 ui-text-black-900 #{!important};
+  }
+}
+
+.fc-today-button,
+.fc-prev-button,
+.fc-next-button {
+  @apply ui-bg-white-900 ui-text-black-900 ui-border-2 ui-outline-none ui-border-black-50 ui-text-p14-semibold ui-font-semibold ui-h-[40px] ui-rounded-base #{!important};
+}
+
+.fc-button:focus {
+  @apply ui-shadow-none #{!important};
+}
+
+.fc-next-button {
+  @apply ui-ml-[8px] #{!important};
+}
+
+.fc-button-group {
+  @apply ui-ml-[16px] ui-space-x-[8px] #{!important};
+}
+
+.fc-day-today {
+  @apply ui-bg-primary-100 #{!important};
+}
+
+.fc-timegrid-event {
+  @apply ui-p-[8px] hover:ui-border-black-500 ui-cursor-pointer ui-transition ui-bg-white-900 ui-text-black-900 ui-border-2 ui-shadow-[0px_14px_40px_10px_rgba(21,_28,_48,_0.06)] ui-border-black-50 ui-rounded-base #{!important};
+
+  .fc-event-main {
+    @apply ui-flex ui-space-y-[8px] ui-flex-col #{!important};
+  }
+  
+  &::after,
+  &::before {
+    @apply ui-hidden #{!important};
+  }
+}
+
+.fc-timegrid-axis-cushion,
+.fc-timegrid-slot-label-frame {
+  @apply ui-whitespace-normal ui-flex ui-items-center ui-justify-center ui-text-p14-semibold ui-text-center #{!important};
+}
+
+.fc-timegrid-slot-label-frame {
+  @apply ui-h-[25px]  #{!important};
+}
+
+@media screen and (max-width: 768px) {
+  .fc-toolbar-chunk {
+    &:last-child {
+      @apply ui-hidden #{!important};
+    }
+  }
+
+  .fc-header-toolbar {
+    @apply ui-flex-wrap #{!important};
+
+    > .fc-toolbar-chunk {
+      &:nth-child(2) {
+        @apply ui-mt-[12px] #{!important};
+      }
+    }
+  }
+
+  .fc-today-button {
+    @apply ui-hidden #{!important};
+  }
+}

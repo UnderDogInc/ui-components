@@ -1,0 +1,10 @@
+.search {
+  &__input {
+    .prepend-icon {
+      padding: 4px !important;
+    }
+  }
+  .m-input__icon--wrap {
+    padding: 0;
+  }
+}

@@ -1,0 +1,70 @@
+.m-select {
+  &__input {
+
+    &:not(.m-select__input-readonly) {
+      cursor: pointer;
+      
+      input {
+        cursor: pointer;
+      }
+    }
+
+    .m-select__input-chevron {
+      transition: .3s ease;
+    }
+
+    &-active {
+      .m-select__input-chevron {
+        transform: rotate(180deg);
+      }
+    }
+
+    &-chips {
+      .m-input__content {
+        margin: -4px;
+      }
+    }
+
+    &-error {
+      .m-input,
+      .prepend-icon,
+      .append-icon {
+        @apply ui-border-red-500 #{!important};
+
+        &::after {
+          @apply ui-border-red-500 #{!important};
+        }
+      }
+    }
+  }
+
+  &__window--wrap {
+    display: flex;
+
+    > *:not(:last-child) {
+      margin-right: 12px;
+      height: max-content;
+    }
+  }
+}
+
+.bottom-sheet-select {
+  .m-list--wrap {
+    @apply ui-p-0 ui-shadow-none ui-rounded-[0px] #{!important};
+
+    .m-list__body {
+      &:not(:last-child) {
+        @apply ui-mb-[16px] ui-border-b-[1px] ui-border-b-black-50;
+      }
+
+      .m-list__item {
+        @apply ui-m-0 ui-p-0 ui-pb-[16px] hover:ui-bg-inherit;
+        @apply ui-bg-white-900 #{!important};
+      }
+    }
+
+    .m-list__actions {
+      @apply ui-border-0 ui-p-0 ui-mt-[24px];
+    }
+  }
+}

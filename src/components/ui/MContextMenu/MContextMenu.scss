@@ -1,0 +1,12 @@
+@tailwind utilities;
+
+.context-menu-transition-enter-active,
+.context-menu-transition-leave-active {
+  @apply ui-transition-opacity ui-duration-300;
+}
+
+
+.context-menu-transition-enter-from,
+.context-menu-transition-leave-to {
+  @apply ui-opacity-0;
+}

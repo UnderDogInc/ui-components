@@ -1,0 +1,20 @@
+.m-calendar {
+  &--wrap {
+    box-shadow: 0px -13px 24px -7px rgba(26, 29, 31, 0.05), 0px 24px 40px -11px rgba(26, 29, 31, 0.1);
+  }
+}
+
+.calendar-clock__line {
+  &::after {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: $white-900;
+    border: 2px solid $primary-900;
+    content: "";
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

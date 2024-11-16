@@ -1,0 +1,44 @@
+
+:root {  
+  --border-color: #FF6A55;
+  --transition-duration-load: 5s;
+}
+
+.m-window-alet {
+  --percentage: 0%;
+	z-index: 0;
+	overflow: hidden;
+	border: 2px solid var(--border-color);
+
+  &__close-wrap {
+    g > * {
+      transition: all .3s ease;
+    }
+
+    &:hover {
+      g > * {
+        fill: $black-900;
+      }
+    }
+  }
+}
+
+.right-alert-enter-active,
+.right-alert-leave-active {
+  transition: transform .3s ease;
+}
+
+.right-alert-enter-from {
+  transform: translateX(120%);
+}
+
+.right-alert-leave-to {
+	transform: scale(0);
+}
+
+@media screen and (max-width: 450px) {
+  .m-window-alet {
+    left: 20px;
+    right: 20px;
+  }
+}

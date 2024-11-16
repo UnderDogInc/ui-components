@@ -1,0 +1,51 @@
+@tailwind utilities;
+
+.ql-toolbar {
+  @apply ui-border-2 ui-border-black-50 ui-rounded-t-base #{!important};
+}
+
+.ql-container {
+  @apply ui-border-2 ui-border-black-50 ui-rounded-b-base #{!important};
+}
+
+.ql-editor {
+  @apply ui-max-h-[50vh];
+}
+
+.quill{
+  .ql-toolbar,
+  .ql-container {
+    @apply ui-transition-[border-color] #{!important};
+  }
+
+  &-focus {
+    .ql-toolbar,
+    .ql-container {
+      @apply ui-border-primary-500 #{!important};
+    }
+  }
+
+  &:not(.quill-error):not(.quill-readonly):hover {
+    .ql-toolbar,    
+    .ql-container {
+      @apply ui-border-primary-500 #{!important};
+    }
+  }
+
+
+  &-error {
+    .ql-toolbar,
+    .ql-container {
+      @apply ui-border-red-900 #{!important};
+    }
+  }
+
+  &-readonly {
+    .ql-formats {
+      > * {
+        @apply ui-pointer-events-none #{!important};
+      }
+    }
+  }
+}
+

@@ -1,0 +1,11 @@
+@tailwind utilities;
+
+.autocomplete {
+  &__activator {
+    &-multiple {
+      .m-input__content {
+        @apply -ui-m-[4px];
+      }
+    }
+  }
+}

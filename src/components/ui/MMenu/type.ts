@@ -1,0 +1,1 @@
+export type TypeTransitionName = 'slide-left' | 'slide-right'

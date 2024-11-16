@@ -1,0 +1,23 @@
+@tailwind utilities;
+
+@media screen and (max-width: 375px) {
+  .m-calendar {
+    &__body {
+      &-week,
+      &-days {
+        @apply ui-gap-x-[10px] #{!important};
+      }
+    }
+  }
+
+  .calendar-clock {
+    @apply ui-w-[250px] ui-h-[250px] #{!important};
+  }
+}
+
+.m-bottom-sheet-years ,
+.m-bottom-sheet-mounth {
+  .bottom-sheet--active {
+    @apply ui-max-h-[490px];
+  }
+}

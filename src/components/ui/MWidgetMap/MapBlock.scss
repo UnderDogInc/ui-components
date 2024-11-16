@@ -1,0 +1,22 @@
+@tailwind utilities;
+
+.ballon {
+  @apply ui-py-[20px] ui-px-[30px];
+
+  p {
+    @apply ui-text-p14 ui-mb-[8px] ui-text-black-900;
+  }
+
+  &__title{
+    @apply ui-font-bold;
+  }
+
+  &__btn {
+    @apply ui-h-[40px] ui-bg-primary-900 ui-rounded-base ui-flex ui-items-center ui-justify-center ui-text-white-900 ui-cursor-pointer ui-font-semibold ui-text-p14-semibold;
+  }
+}
+
+[class*="balloon__content"] {
+  padding: 0 !important;
+  margin: 0 !important;
+}

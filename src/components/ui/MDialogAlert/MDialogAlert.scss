@@ -1,0 +1,24 @@
+@tailwind utilities;
+
+.dialog-open-enter-active,
+.dialog-open-leave-active {
+  transition: transform .3s ease;
+  
+  .m-dialog-alert,
+  .m-dialog-alert__overlay {
+    transition: all .3s ease;
+  }
+}
+
+.dialog-open-enter-from,
+.dialog-open-leave-to {
+  .m-dialog-alert {
+    @apply ui-scale-0;
+  }
+
+  .m-dialog-alert__overlay {
+    background-color: transparent;
+    opacity: 0;
+    backdrop-filter: blur(0px);
+  }
+}

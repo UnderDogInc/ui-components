@@ -1,0 +1,2050 @@
+[
+  {
+    "name": "Afghanistan",
+    "dial_code": "+93",
+    "code": "AF",
+    "flag_file": "af.svg",
+    "name_rus": "Афганистан",
+    "component": "af"
+  },
+  {
+    "name": "Åland Islands",
+    "dial_code": "+358",
+    "code": "AX",
+    "flag_file": "ax.svg",
+    "name_rus": "Аландские острова",
+    "component": "ax"
+  },
+  {
+    "name": "Albania",
+    "dial_code": "+355",
+    "code": "AL",
+    "flag_file": "al.svg",
+    "name_rus": "Албания",
+    "component": "al"
+  },
+  {
+    "name": "Algeria",
+    "dial_code": "+213",
+    "code": "DZ",
+    "flag_file": "dz.svg",
+    "name_rus": "Алжир",
+    "component": "dz"
+  },
+  {
+    "name": "American Samoa",
+    "dial_code": "+1684",
+    "code": "AS",
+    "flag_file": "as.svg",
+    "name_rus": "Американское Самоа",
+    "component": "as"
+  },
+  {
+    "name": "Andorra",
+    "dial_code": "+376",
+    "code": "AD",
+    "flag_file": "ad.svg",
+    "name_rus": "Андорра",
+    "component": "ad"
+  },
+  {
+    "name": "Angola",
+    "dial_code": "+244",
+    "code": "AO",
+    "flag_file": "ao.svg",
+    "name_rus": "Ангола",
+    "component": "ao"
+  },
+  {
+    "name": "Anguilla",
+    "dial_code": "+1264",
+    "code": "AI",
+    "flag_file": "ai.svg",
+    "name_rus": "Ангилья",
+    "component": "ai"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "dial_code": "+1268",
+    "code": "AG",
+    "flag_file": "ag.svg",
+    "name_rus": "Антигуа и Барбуда",
+    "component": "ag"
+  },
+  {
+    "name": "Argentina",
+    "dial_code": "+54",
+    "code": "AR",
+    "flag_file": "ar.svg",
+    "name_rus": "Аргентина",
+    "component": "ar"
+  },
+  {
+    "name": "Armenia",
+    "dial_code": "+374",
+    "code": "AM",
+    "flag_file": "am.svg",
+    "name_rus": "Армения",
+    "component": "am"
+  },
+  {
+    "name": "Aruba",
+    "dial_code": "+297",
+    "code": "AW",
+    "flag_file": "aw.svg",
+    "name_rus": "Аруба",
+    "component": "aw"
+  },
+  {
+    "name": "Australia",
+    "dial_code": "+61",
+    "code": "AU",
+    "flag_file": "au.svg",
+    "name_rus": "Австралия",
+    "component": "au"
+  },
+  {
+    "name": "Austria",
+    "dial_code": "+43",
+    "code": "AT",
+    "flag_file": "at.svg",
+    "name_rus": "Австрия",
+    "component": "at"
+  },
+  {
+    "name": "Azerbaijan",
+    "dial_code": "+994",
+    "code": "AZ",
+    "flag_file": "az.svg",
+    "name_rus": "Азербайджан",
+    "component": "az"
+  },
+  {
+    "name": "Bahamas",
+    "dial_code": "+1242",
+    "code": "BS",
+    "flag_file": "bs.svg",
+    "name_rus": "Багамские Острова",
+    "component": "bs"
+  },
+  {
+    "name": "Bahrain",
+    "dial_code": "+973",
+    "code": "BH",
+    "flag_file": "bh.svg",
+    "name_rus": "Бахрейн",
+    "component": "bh"
+  },
+  {
+    "name": "Bangladesh",
+    "dial_code": "+880",
+    "code": "BD",
+    "flag_file": "bd.svg",
+    "name_rus": "Бангладеш",
+    "component": "bd"
+  },
+  {
+    "name": "Barbados",
+    "dial_code": "+1246",
+    "code": "BB",
+    "flag_file": "bb.svg",
+    "name_rus": "Барбадос",
+    "component": "bb"
+  },
+  {
+    "name": "Belarus",
+    "dial_code": "+375",
+    "code": "BY",
+    "flag_file": "by.svg",
+    "name_rus": "Беларусь",
+    "component": "by"
+  },
+  {
+    "name": "Belgium",
+    "dial_code": "+32",
+    "code": "BE",
+    "flag_file": "be.svg",
+    "name_rus": "Бельгия",
+    "component": "be"
+  },
+  {
+    "name": "Belize",
+    "dial_code": "+501",
+    "code": "BZ",
+    "flag_file": "bz.svg",
+    "name_rus": "Белиз",
+    "component": "bz"
+  },
+  {
+    "name": "Benin",
+    "dial_code": "+229",
+    "code": "BJ",
+    "flag_file": "bj.svg",
+    "name_rus": "Бенин",
+    "component": "bj"
+  },
+  {
+    "name": "Bermuda",
+    "dial_code": "+1441",
+    "code": "BM",
+    "flag_file": "bm.svg",
+    "name_rus": "Бермудские Острова",
+    "component": "bm"
+  },
+  {
+    "name": "Bhutan",
+    "dial_code": "+975",
+    "code": "BT",
+    "flag_file": "bt.svg",
+    "name_rus": "Бутан",
+    "component": "bt"
+  },
+  {
+    "name": "Wangdue Phodrang District",
+    "dial_code": "+975",
+    "code": "BT-24",
+    "flag_file": "bt-24.svg",
+    "name_rus": "Вангди-Пходранг",
+    "component": "bt24"
+  },
+  {
+    "name": "Bolivia",
+    "dial_code": "+591",
+    "code": "BO",
+    "flag_file": "bo.svg",
+    "name_rus": "Боливия",
+    "component": "bo"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "dial_code": "+387",
+    "code": "BA",
+    "flag_file": "ba.svg",
+    "name_rus": "Босния и Герцеговина",
+    "component": "ba"
+  },
+  {
+    "name": "Botswana",
+    "dial_code": "+267",
+    "code": "BW",
+    "flag_file": "bw.svg",
+    "name_rus": "Ботсвана",
+    "component": "bw"
+  },
+  {
+    "name": "Brazil",
+    "dial_code": "+55",
+    "code": "BR",
+    "flag_file": "br.svg",
+    "name_rus": "Бразилия",
+    "component": "br"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "dial_code": "+246",
+    "code": "IO",
+    "flag_file": "io.svg",
+    "name_rus": "Британская территория в Индийском океане",
+    "component": "io"
+  },
+  {
+    "name": "Brunei",
+    "dial_code": "+673",
+    "code": "BN",
+    "flag_file": "bn.svg",
+    "name_rus": "Бруней",
+    "component": "bn"
+  },
+  {
+    "name": "Bulgaria",
+    "dial_code": "+359",
+    "code": "BG",
+    "flag_file": "bg.svg",
+    "name_rus": "Болгария",
+    "component": "bg"
+  },
+  {
+    "name": "Burkina Faso",
+    "dial_code": "+226",
+    "code": "BF",
+    "flag_file": "bf.svg",
+    "name_rus": "Буркина-Фасо",
+    "component": "bf"
+  },
+  {
+    "name": "Burundi",
+    "dial_code": "+257",
+    "code": "BI",
+    "flag_file": "bi.svg",
+    "name_rus": "Бурунди",
+    "component": "bi"
+  },
+  {
+    "name": "Cambodia",
+    "dial_code": "+855",
+    "code": "KH",
+    "flag_file": "kh.svg",
+    "name_rus": "Камбоджа",
+    "component": "kh"
+  },
+  {
+    "name": "Cameroon",
+    "dial_code": "+237",
+    "code": "CM",
+    "flag_file": "cm.svg",
+    "name_rus": "Камерун",
+    "component": "cm"
+  },
+  {
+    "name": "Canada",
+    "dial_code": "+1",
+    "code": "CA",
+    "flag_file": "ca.svg",
+    "name_rus": "Канада",
+    "component": "ca"
+  },
+  {
+    "name": "British Columbia",
+    "dial_code": "+1",
+    "code": "CA-BC",
+    "flag_file": "ca-bc.svg",
+    "name_rus": "Британская Колумбия",
+    "component": "caBc"
+  },
+  {
+    "name": "Cape Verde",
+    "dial_code": "+238",
+    "code": "CV",
+    "flag_file": "cv.svg",
+    "name_rus": "Кабо-Верде",
+    "component": "cv"
+  },
+  {
+    "name": "Cayman Islands",
+    "dial_code": "+1345",
+    "code": "KY",
+    "flag_file": "ky.svg",
+    "name_rus": "Каймановы острова",
+    "component": "ky"
+  },
+  {
+    "name": "Central African Republic",
+    "dial_code": "+236",
+    "code": "CF",
+    "flag_file": "cf.svg",
+    "name_rus": "Центральноафриканская Республика",
+    "component": "cf"
+  },
+  {
+    "name": "Chad",
+    "dial_code": "+235",
+    "code": "TD",
+    "flag_file": "td.svg",
+    "name_rus": "Чад",
+    "component": "td"
+  },
+  {
+    "name": "Chile",
+    "dial_code": "+56",
+    "code": "CL",
+    "flag_file": "cl.svg",
+    "name_rus": "Чили",
+    "component": "cl"
+  },
+  {
+    "name": "China",
+    "dial_code": "+86",
+    "code": "CN",
+    "flag_file": "cn.svg",
+    "name_rus": "Китай",
+    "component": "cn"
+  },
+  {
+    "name": "Tibet",
+    "dial_code": "+86",
+    "code": "CN-XZ",
+    "flag_file": "cn-xz.svg",
+    "name_rus": "Тибет",
+    "component": "cnXz"
+  },
+  {
+    "name": "Christmas Island",
+    "dial_code": "+61",
+    "code": "CX",
+    "flag_file": "cx.svg",
+    "name_rus": "Остров Рождества",
+    "component": "cx"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "dial_code": "+61",
+    "code": "CC",
+    "flag_file": "cc.svg",
+    "name_rus": "Кокосовые острова",
+    "component": "cc"
+  },
+  {
+    "name": "Colombia",
+    "dial_code": "+57",
+    "code": "CO",
+    "flag_file": "co.svg",
+    "name_rus": "Колумбия",
+    "component": "co"
+  },
+  {
+    "name": "Comoros",
+    "dial_code": "+269",
+    "code": "KM",
+    "flag_file": "km.svg",
+    "name_rus": "Коморы",
+    "component": "km"
+  },
+  {
+    "name": "Republic of the Congo",
+    "dial_code": "+242",
+    "code": "CG",
+    "flag_file": "cg.svg",
+    "name_rus": "Республика Конго",
+    "component": "cg"
+  },
+  {
+    "name": "DR Congo",
+    "dial_code": "+243",
+    "code": "CD",
+    "flag_file": "cd.svg",
+    "name_rus": "Демократическая Республика Конго",
+    "component": "cd"
+  },
+  {
+    "name": "Cook Islands",
+    "dial_code": "+682",
+    "code": "CK",
+    "flag_file": "ck.svg",
+    "name_rus": "Острова Кука",
+    "component": "ck"
+  },
+  {
+    "name": "Costa Rica",
+    "dial_code": "+506",
+    "code": "CR",
+    "flag_file": "cr.svg",
+    "name_rus": "Коста-Рика",
+    "component": "cr"
+  },
+  {
+    "name": "Ivory Coast",
+    "dial_code": "+225",
+    "code": "CI",
+    "flag_file": "ci.svg",
+    "name_rus": "Кот-д’Ивуар",
+    "component": "ci"
+  },
+  {
+    "name": "Croatia",
+    "dial_code": "+385",
+    "code": "HR",
+    "flag_file": "hr.svg",
+    "name_rus": "Хорватия",
+    "component": "hr"
+  },
+  {
+    "name": "Cuba",
+    "dial_code": "+53",
+    "code": "CU",
+    "flag_file": "cu.svg",
+    "name_rus": "Куба",
+    "component": "cu"
+  },
+  {
+    "name": "Cyprus",
+    "dial_code": "+357",
+    "code": "CY",
+    "flag_file": "cy.svg",
+    "name_rus": "Кипр",
+    "component": "cy"
+  },
+  {
+    "name": "Czechia",
+    "dial_code": "+420",
+    "code": "CZ",
+    "flag_file": "cz.svg",
+    "name_rus": "Чехия",
+    "component": "cz"
+  },
+  {
+    "name": "Denmark",
+    "dial_code": "+45",
+    "code": "DK",
+    "flag_file": "dk.svg",
+    "name_rus": "Дания",
+    "component": "dk"
+  },
+  {
+    "name": "Djibouti",
+    "dial_code": "+253",
+    "code": "DJ",
+    "flag_file": "dj.svg",
+    "name_rus": "Джибути",
+    "component": "dj"
+  },
+  {
+    "name": "Dominica",
+    "dial_code": "+1767",
+    "code": "DM",
+    "flag_file": "dm.svg",
+    "name_rus": "Доминика",
+    "component": "dm"
+  },
+  {
+    "name": "Dominican Republic",
+    "dial_code": "+1849",
+    "code": "DO",
+    "flag_file": "do.svg",
+    "name_rus": "Доминиканская Республика",
+    "component": "DO"
+  },
+  {
+    "name": "Ecuador",
+    "dial_code": "+593",
+    "code": "EC",
+    "flag_file": "ec.svg",
+    "name_rus": "Эквадор",
+    "component": "ec"
+  },
+  {
+    "name": "Egypt",
+    "dial_code": "+20",
+    "code": "EG",
+    "flag_file": "eg.svg",
+    "name_rus": "Египет",
+    "component": "eg"
+  },
+  {
+    "name": "El Salvador",
+    "dial_code": "+503",
+    "code": "SV",
+    "flag_file": "sv.svg",
+    "name_rus": "Сальвадор",
+    "component": "sv"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "dial_code": "+240",
+    "code": "GQ",
+    "flag_file": "gq.svg",
+    "name_rus": "Экваториальная Гвинея",
+    "component": "gq"
+  },
+  {
+    "name": "Eritrea",
+    "dial_code": "+291",
+    "code": "ER",
+    "flag_file": "er.svg",
+    "name_rus": "Эритрея",
+    "component": "er"
+  },
+  {
+    "name": "Estonia",
+    "dial_code": "+372",
+    "code": "EE",
+    "flag_file": "ee.svg",
+    "name_rus": "Эстония",
+    "component": "ee"
+  },
+  {
+    "name": "Ethiopia",
+    "dial_code": "+251",
+    "code": "ET",
+    "flag_file": "et.svg",
+    "name_rus": "Эфиопия",
+    "component": "europeanunion"
+  },
+  {
+    "name": "Falkland Islands",
+    "dial_code": "+500",
+    "code": "FK",
+    "flag_file": "fk.svg",
+    "name_rus": "Фолклендские острова",
+    "component": "fk"
+  },
+  {
+    "name": "Faroe Islands",
+    "dial_code": "+298",
+    "code": "FO",
+    "flag_file": "fo.svg",
+    "name_rus": "Фарерские острова",
+    "component": "fo"
+  },
+  {
+    "name": "Fiji",
+    "dial_code": "+679",
+    "code": "FJ",
+    "flag_file": "fj.svg",
+    "name_rus": "Фиджи",
+    "component": "fj"
+  },
+  {
+    "name": "Finland",
+    "dial_code": "+358",
+    "code": "FI",
+    "flag_file": "fi.svg",
+    "name_rus": "Финляндия",
+    "component": "fi"
+  },
+  {
+    "name": "France",
+    "dial_code": "+33",
+    "code": "FR",
+    "flag_file": "fr.svg",
+    "name_rus": "Франция",
+    "component": "fr"
+  },
+  {
+    "name": "French Polynesia",
+    "dial_code": "+689",
+    "code": "PF",
+    "flag_file": "pf.svg",
+    "name_rus": "Французская Полинезия",
+    "component": "pf"
+  },
+  {
+    "name": "Gabon",
+    "dial_code": "+241",
+    "code": "GA",
+    "flag_file": "ga.svg",
+    "name_rus": "Габон",
+    "component": "ga"
+  },
+  {
+    "name": "Gambia",
+    "dial_code": "+220",
+    "code": "GM",
+    "flag_file": "gm.svg",
+    "name_rus": "Гамбия",
+    "component": "gm"
+  },
+  {
+    "name": "Georgia",
+    "dial_code": "+995",
+    "code": "GE",
+    "flag_file": "ge.svg",
+    "name_rus": "Грузия",
+    "component": "ge"
+  },
+  {
+    "name": "Germany",
+    "dial_code": "+49",
+    "code": "DE",
+    "flag_file": "de.svg",
+    "name_rus": "Германия",
+    "component": "de"
+  },
+  {
+    "name": "Ghana",
+    "dial_code": "+233",
+    "code": "GH",
+    "flag_file": "gh.svg",
+    "name_rus": "Гана",
+    "component": "gh"
+  },
+  {
+    "name": "Gibraltar",
+    "dial_code": "+350",
+    "code": "GI",
+    "flag_file": "gi.svg",
+    "name_rus": "Гибралтар",
+    "component": "gi"
+  },
+  {
+    "name": "Greece",
+    "dial_code": "+30",
+    "code": "GR",
+    "flag_file": "gr.svg",
+    "name_rus": "Греция",
+    "component": "gr"
+  },
+  {
+    "name": "Greenland",
+    "dial_code": "+299",
+    "code": "GL",
+    "flag_file": "gl.svg",
+    "name_rus": "Гренландия",
+    "component": "gl"
+  },
+  {
+    "name": "Grenada",
+    "dial_code": "+1473",
+    "code": "GD",
+    "flag_file": "gd.svg",
+    "name_rus": "Гренада",
+    "component": "gd"
+  },
+  {
+    "name": "Guam",
+    "dial_code": "+1671",
+    "code": "GU",
+    "flag_file": "gu.svg",
+    "name_rus": "Гуам",
+    "component": "gu"
+  },
+  {
+    "name": "Guatemala",
+    "dial_code": "+502",
+    "code": "GT",
+    "flag_file": "gt.svg",
+    "name_rus": "Гватемала",
+    "component": "gt"
+  },
+  {
+    "name": "Guernsey",
+    "dial_code": "+44",
+    "code": "GG",
+    "flag_file": "gg.svg",
+    "name_rus": "Гернси",
+    "component": "gg"
+  },
+  {
+    "name": "Guinea",
+    "dial_code": "+224",
+    "code": "GN",
+    "flag_file": "gn.svg",
+    "name_rus": "Гвинея",
+    "component": "gn"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "dial_code": "+245",
+    "code": "GW",
+    "flag_file": "gw.svg",
+    "name_rus": "Гвинея-Бисау",
+    "component": "gw"
+  },
+  {
+    "name": "Guyana",
+    "dial_code": "+592",
+    "code": "GY",
+    "flag_file": "gy.svg",
+    "name_rus": "Гайана",
+    "component": "gy"
+  },
+  {
+    "name": "Haiti",
+    "dial_code": "+509",
+    "code": "HT",
+    "flag_file": "ht.svg",
+    "name_rus": "Гаити",
+    "component": "ht"
+  },
+  {
+    "name": "Vatican City",
+    "dial_code": "+379",
+    "code": "VA",
+    "flag_file": "va.svg",
+    "name_rus": "Ватикан",
+    "component": "va"
+  },
+  {
+    "name": "Honduras",
+    "dial_code": "+504",
+    "code": "HN",
+    "flag_file": "hn.svg",
+    "name_rus": "Гондурас",
+    "component": "hn"
+  },
+  {
+    "name": "Hong Kong",
+    "dial_code": "+852",
+    "code": "HK",
+    "flag_file": "hk.svg",
+    "name_rus": "Гонконг",
+    "component": "hk"
+  },
+  {
+    "name": "Hungary",
+    "dial_code": "+36",
+    "code": "HU",
+    "flag_file": "hu.svg",
+    "name_rus": "Венгрия",
+    "component": "hu"
+  },
+  {
+    "name": "Iceland",
+    "dial_code": "+354",
+    "code": "IS",
+    "flag_file": "is.svg",
+    "name_rus": "Исландия",
+    "component": "is"
+  },
+  {
+    "name": "India",
+    "dial_code": "+91",
+    "code": "IN",
+    "flag_file": "in.svg",
+    "name_rus": "Индия",
+    "component": "IN"
+  },
+  {
+    "name": "Indonesia",
+    "dial_code": "+62",
+    "code": "ID",
+    "flag_file": "id.svg",
+    "name_rus": "Индонезия",
+    "component": "id"
+  },
+  {
+    "name": "Iran",
+    "dial_code": "+98",
+    "code": "IR",
+    "flag_file": "ir.svg",
+    "name_rus": "Иран",
+    "component": "ir"
+  },
+  {
+    "name": "Iraq",
+    "dial_code": "+964",
+    "code": "IQ",
+    "flag_file": "iq.svg",
+    "name_rus": "Ирак",
+    "component": "iq"
+  },
+  {
+    "name": "Ireland",
+    "dial_code": "+353",
+    "code": "IE",
+    "flag_file": "ie.svg",
+    "name_rus": "Ирландия",
+    "component": "ie"
+  },
+  {
+    "name": "Isle of Man",
+    "dial_code": "+44",
+    "code": "IM",
+    "flag_file": "im.svg",
+    "name_rus": "Остров Мэн",
+    "component": "im"
+  },
+  {
+    "name": "Israel",
+    "dial_code": "+972",
+    "code": "IL",
+    "flag_file": "il.svg",
+    "name_rus": "Израиль",
+    "component": "il"
+  },
+  {
+    "name": "Western Sahara",
+    "dial_code": "+212 5288",
+    "code": "EH",
+    "flag_file": "eh.svg",
+    "name_rus": "Западная Сахара",
+    "component": "eh"
+  },
+  {
+    "name": "Italy",
+    "dial_code": "+39",
+    "code": "IT",
+    "flag_file": "it.svg",
+    "name_rus": "Италия",
+    "component": "it"
+  },
+  {
+    "name": "Sardegna",
+    "dial_code": "+39",
+    "code": "IT-88",
+    "flag_file": "it-88.svg",
+    "name_rus": "Сардиния",
+    "component": "it88"
+  },
+  {
+    "name": "Jamaica",
+    "dial_code": "+1876",
+    "code": "JM",
+    "flag_file": "jm.svg",
+    "name_rus": "Ямайка",
+    "component": "jm"
+  },
+  {
+    "name": "Japan",
+    "dial_code": "+81",
+    "code": "JP",
+    "flag_file": "jp.svg",
+    "name_rus": "Япония",
+    "component": "jp"
+  },
+  {
+    "name": "Jersey",
+    "dial_code": "+44",
+    "code": "JE",
+    "flag_file": "je.svg",
+    "name_rus": "Джерси",
+    "component": "je"
+  },
+  {
+    "name": "Jordan",
+    "dial_code": "+962",
+    "code": "JO",
+    "flag_file": "jo.svg",
+    "name_rus": "Иордания",
+    "component": "jo"
+  },
+  {
+    "name": "Kazakhstan",
+    "dial_code": "+77",
+    "code": "KZ",
+    "flag_file": "kz.svg",
+    "name_rus": "Казахстан",
+    "component": "kz"
+  },
+  {
+    "name": "Kenya",
+    "dial_code": "+254",
+    "code": "KE",
+    "flag_file": "ke.svg",
+    "name_rus": "Кения",
+    "component": "ke"
+  },
+  {
+    "name": "Kiribati",
+    "dial_code": "+686",
+    "code": "KI",
+    "flag_file": "ki.svg",
+    "name_rus": "Кирибати",
+    "component": "ki"
+  },
+  {
+    "name": "North Korea",
+    "dial_code": "+850",
+    "code": "KP",
+    "flag_file": "kp.svg",
+    "name_rus": "Северная Корея",
+    "component": "kp"
+  },
+  {
+    "name": "South Korea",
+    "dial_code": "+82",
+    "code": "KR",
+    "flag_file": "kr.svg",
+    "name_rus": "Южная Корея",
+    "component": "kr"
+  },
+  {
+    "name": "Kosovo",
+    "dial_code": "+383",
+    "code": "XK",
+    "flag_file": "xk.svg",
+    "name_rus": "Республика Косово",
+    "component": "xk"
+  },
+  {
+    "name": "Kuwait",
+    "dial_code": "+965",
+    "code": "KW",
+    "flag_file": "kw.svg",
+    "name_rus": "Кувейт",
+    "component": "kw"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "dial_code": "+996",
+    "code": "KG",
+    "flag_file": "kg.svg",
+    "name_rus": "Киргизия",
+    "component": "kg"
+  },
+  {
+    "name": "Laos",
+    "dial_code": "+856",
+    "code": "LA",
+    "flag_file": "la.svg",
+    "name_rus": "Лаос",
+    "component": "la"
+  },
+  {
+    "name": "Latvia",
+    "dial_code": "+371",
+    "code": "LV",
+    "flag_file": "lv.svg",
+    "name_rus": "Латвия",
+    "component": "lv"
+  },
+  {
+    "name": "Lebanon",
+    "dial_code": "+961",
+    "code": "LB",
+    "flag_file": "lb.svg",
+    "name_rus": "Ливан",
+    "component": "lb"
+  },
+  {
+    "name": "Lesotho",
+    "dial_code": "+266",
+    "code": "LS",
+    "flag_file": "ls.svg",
+    "name_rus": "Лесото",
+    "component": "ls"
+  },
+  {
+    "name": "Liberia",
+    "dial_code": "+231",
+    "code": "LR",
+    "flag_file": "lr.svg",
+    "name_rus": "Либерия",
+    "component": "lr"
+  },
+  {
+    "name": "Libya",
+    "dial_code": "+218",
+    "code": "LY",
+    "flag_file": "ly.svg",
+    "name_rus": "Ливия",
+    "component": "ly"
+  },
+  {
+    "name": "Liechtenstein",
+    "dial_code": "+423",
+    "code": "LI",
+    "flag_file": "li.svg",
+    "name_rus": "Лихтенштейн",
+    "component": "li"
+  },
+  {
+    "name": "Lithuania",
+    "dial_code": "+370",
+    "code": "LT",
+    "flag_file": "lt.svg",
+    "name_rus": "Литва",
+    "component": "lt"
+  },
+  {
+    "name": "Luxembourg",
+    "dial_code": "+352",
+    "code": "LU",
+    "flag_file": "lu.svg",
+    "name_rus": "Люксембург",
+    "component": "lu"
+  },
+  {
+    "name": "Macau",
+    "dial_code": "+853",
+    "code": "MO",
+    "flag_file": "mo.svg",
+    "name_rus": "Макао",
+    "component": "mo"
+  },
+  {
+    "name": "North Macedonia",
+    "dial_code": "+389",
+    "code": "MK",
+    "flag_file": "mk.svg",
+    "name_rus": "Северная Македония",
+    "component": "mk"
+  },
+  {
+    "name": "Madagascar",
+    "dial_code": "+261",
+    "code": "MG",
+    "flag_file": "mg.svg",
+    "name_rus": "Мадагаскар",
+    "component": "mg"
+  },
+  {
+    "name": "Malawi",
+    "dial_code": "+265",
+    "code": "MW",
+    "flag_file": "mw.svg",
+    "name_rus": "Малави",
+    "component": "mw"
+  },
+  {
+    "name": "Malaysia",
+    "dial_code": "+60",
+    "code": "MY",
+    "flag_file": "my.svg",
+    "name_rus": "Малайзия",
+    "component": "my"
+  },
+  {
+    "name": "Maldives",
+    "dial_code": "+960",
+    "code": "MV",
+    "flag_file": "mv.svg",
+    "name_rus": "Мальдивы",
+    "component": "mv"
+  },
+  {
+    "name": "Mali",
+    "dial_code": "+223",
+    "code": "ML",
+    "flag_file": "ml.svg",
+    "name_rus": "Мали",
+    "component": "ml"
+  },
+  {
+    "name": "Malta",
+    "dial_code": "+356",
+    "code": "MT",
+    "flag_file": "mt.svg",
+    "name_rus": "Мальта",
+    "component": "mt"
+  },
+  {
+    "name": "Marshall Islands",
+    "dial_code": "+692",
+    "code": "MH",
+    "flag_file": "mh.svg",
+    "name_rus": "Маршалловы Острова",
+    "component": "mh"
+  },
+  {
+    "name": "Martinique",
+    "dial_code": "+596",
+    "code": "MQ",
+    "flag_file": "mq.svg",
+    "name_rus": "Мартиника",
+    "component": "mq"
+  },
+  {
+    "name": "Mauritania",
+    "dial_code": "+222",
+    "code": "MR",
+    "flag_file": "mr.svg",
+    "name_rus": "Мавритания",
+    "component": "mr"
+  },
+  {
+    "name": "Mauritius",
+    "dial_code": "+230",
+    "code": "MU",
+    "flag_file": "mu.svg",
+    "name_rus": "Маврикий",
+    "component": "mu"
+  },
+  {
+    "name": "Mexico",
+    "dial_code": "+52",
+    "code": "MX",
+    "flag_file": "mx.svg",
+    "name_rus": "Мексика",
+    "component": "mx"
+  },
+  {
+    "name": "Micronesia",
+    "dial_code": "+691",
+    "code": "FM",
+    "flag_file": "fm.svg",
+    "name_rus": "Федеративные Штаты Микронезии",
+    "component": "fm"
+  },
+  {
+    "name": "Moldova",
+    "dial_code": "+373",
+    "code": "MD",
+    "flag_file": "md.svg",
+    "name_rus": "Молдавия",
+    "component": "md"
+  },
+  {
+    "name": "Transnistria",
+    "dial_code": "+373",
+    "code": "MD-T",
+    "flag_file": "md-t.svg",
+    "name_rus": "Приднестровская Молдавская Республика",
+    "component": "mdT"
+  },
+  {
+    "name": "Monaco",
+    "dial_code": "+377",
+    "code": "MC",
+    "flag_file": "mc.svg",
+    "name_rus": "Монако",
+    "component": "mc"
+  },
+  {
+    "name": "Mongolia",
+    "dial_code": "+976",
+    "code": "MN",
+    "flag_file": "mn.svg",
+    "name_rus": "Монголия",
+    "component": "mn"
+  },
+  {
+    "name": "Montenegro",
+    "dial_code": "+382",
+    "code": "ME",
+    "flag_file": "me.svg",
+    "name_rus": "Черногория",
+    "component": "me"
+  },
+  {
+    "name": "Montserrat",
+    "dial_code": "+1664",
+    "code": "MS",
+    "flag_file": "ms.svg",
+    "name_rus": "Монтсеррат",
+    "component": "ms"
+  },
+  {
+    "name": "Morocco",
+    "dial_code": "+212",
+    "code": "MA",
+    "flag_file": "ma.svg",
+    "name_rus": "Марокко",
+    "component": "ma"
+  },
+  {
+    "name": "Mozambique",
+    "dial_code": "+258",
+    "code": "MZ",
+    "flag_file": "mz.svg",
+    "name_rus": "Мозамбик",
+    "component": "mz"
+  },
+  {
+    "name": "Myanmar",
+    "dial_code": "+95",
+    "code": "MM",
+    "flag_file": "mm.svg",
+    "name_rus": "Мьянма",
+    "component": "mm"
+  },
+  {
+    "name": "Namibia",
+    "dial_code": "+264",
+    "code": "NA",
+    "flag_file": "na.svg",
+    "name_rus": "Намибия",
+    "component": "nato"
+  },
+  {
+    "name": "Nauru",
+    "dial_code": "+674",
+    "code": "NR",
+    "flag_file": "nr.svg",
+    "name_rus": "Науру",
+    "component": "nr"
+  },
+  {
+    "name": "Nepal",
+    "dial_code": "+977",
+    "code": "NP",
+    "flag_file": "np.svg",
+    "name_rus": "Непал",
+    "component": "np"
+  },
+  {
+    "name": "Netherlands",
+    "dial_code": "+31",
+    "code": "NL",
+    "flag_file": "nl.svg",
+    "name_rus": "Нидерланды",
+    "component": "nl"
+  },
+  {
+    "name": "Sint Maarten",
+    "dial_code": "+1-721",
+    "code": "SX",
+    "flag_file": "sx.svg",
+    "name_rus": "Синт-Мартен",
+    "component": "sx"
+  },
+  {
+    "name": "Curaçao",
+    "dial_code": "+531",
+    "code": "CW",
+    "flag_file": "cw.svg",
+    "name_rus": "Кюрасао",
+    "component": "cw"
+  },
+  {
+    "name": "Galápagos Province",
+    "dial_code": "+593",
+    "code": "EC-W",
+    "flag_file": "ec-w.svg",
+    "name_rus": "Галапагос",
+    "component": "ecW"
+  },
+  {
+    "name": "Bonaire",
+    "dial_code": "+599",
+    "code": "BQ-BO",
+    "flag_file": "bq-bo.svg",
+    "name_rus": "Бонайре",
+    "component": "bqBo"
+  },
+  {
+    "name": "Sint Eustatius",
+    "dial_code": "+31 599",
+    "code": "BQ-SE",
+    "flag_file": "bq-se.svg",
+    "name_rus": "Синт-Эстатиус",
+    "component": "bqSe"
+  },
+  {
+    "name": "Saba",
+    "dial_code": "+31 599",
+    "code": "BQ-SA",
+    "flag_file": "bq-sa.svg",
+    "name_rus": "Саба",
+    "component": "bqSa"
+  },
+  {
+    "name": "New Zealand",
+    "dial_code": "+64",
+    "code": "NZ",
+    "flag_file": "nz.svg",
+    "name_rus": "Новая Зеландия",
+    "component": "nz"
+  },
+  {
+    "name": "Nicaragua",
+    "dial_code": "+505",
+    "code": "NI",
+    "flag_file": "ni.svg",
+    "name_rus": "Никарагуа",
+    "component": "ni"
+  },
+  {
+    "name": "Niger",
+    "dial_code": "+227",
+    "code": "NE",
+    "flag_file": "ne.svg",
+    "name_rus": "Нигер",
+    "component": "ne"
+  },
+  {
+    "name": "Nigeria",
+    "dial_code": "+234",
+    "code": "NG",
+    "flag_file": "ng.svg",
+    "name_rus": "Нигерия",
+    "component": "ng"
+  },
+  {
+    "name": "Niue",
+    "dial_code": "+683",
+    "code": "NU",
+    "flag_file": "nu.svg",
+    "name_rus": "Ниуэ",
+    "component": "nu"
+  },
+  {
+    "name": "Norfolk Island",
+    "dial_code": "+672",
+    "code": "NF",
+    "flag_file": "nf.svg",
+    "name_rus": "Норфолк",
+    "component": "nf"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "dial_code": "+1670",
+    "code": "MP",
+    "flag_file": "mp.svg",
+    "name_rus": "Северные Марианские острова",
+    "component": "mp"
+  },
+  {
+    "name": "Norway",
+    "dial_code": "+47",
+    "code": "NO",
+    "flag_file": "no.svg",
+    "name_rus": "Норвегия",
+    "component": "northerncyprus"
+  },
+  {
+    "name": "Oman",
+    "dial_code": "+968",
+    "code": "OM",
+    "flag_file": "om.svg",
+    "name_rus": "Оман",
+    "component": "om"
+  },
+  {
+    "name": "Pakistan",
+    "dial_code": "+92",
+    "code": "PK",
+    "flag_file": "pk.svg",
+    "name_rus": "Пакистан",
+    "component": "pk"
+  },
+  {
+    "name": "Palau",
+    "dial_code": "+680",
+    "code": "PW",
+    "flag_file": "pw.svg",
+    "name_rus": "Палау",
+    "component": "pw"
+  },
+  {
+    "name": "Palestine",
+    "dial_code": "+970",
+    "code": "PS",
+    "flag_file": "ps.svg",
+    "name_rus": "Палестина",
+    "component": "ps"
+  },
+  {
+    "name": "Panama",
+    "dial_code": "+507",
+    "code": "PA",
+    "flag_file": "pa.svg",
+    "name_rus": "Панама",
+    "component": "pa"
+  },
+  {
+    "name": "Papua New Guinea",
+    "dial_code": "+675",
+    "code": "PG",
+    "flag_file": "pg.svg",
+    "name_rus": "Папуа — Новая Гвинея",
+    "component": "pg"
+  },
+  {
+    "name": "Paraguay",
+    "dial_code": "+595",
+    "code": "PY",
+    "flag_file": "py.svg",
+    "name_rus": "Парагвай",
+    "component": "py"
+  },
+  {
+    "name": "Peru",
+    "dial_code": "+51",
+    "code": "PE",
+    "flag_file": "pe.svg",
+    "name_rus": "Перу",
+    "component": "pe"
+  },
+  {
+    "name": "Philippines",
+    "dial_code": "+63",
+    "code": "PH",
+    "flag_file": "ph.svg",
+    "name_rus": "Филиппины",
+    "component": "ph"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "dial_code": "+64",
+    "code": "PN",
+    "flag_file": "pn.svg",
+    "name_rus": "Острова Питкэрн",
+    "component": "pn"
+  },
+  {
+    "name": "Poland",
+    "dial_code": "+48",
+    "code": "PL",
+    "flag_file": "pl.svg",
+    "name_rus": "Польша",
+    "component": "pl"
+  },
+  {
+    "name": "Portugal",
+    "dial_code": "+351",
+    "code": "PT",
+    "flag_file": "pt.svg",
+    "name_rus": "Португалия",
+    "component": "pt"
+  },
+  {
+    "name": "Azores",
+    "dial_code": "+351",
+    "code": "PT-20",
+    "flag_file": "pt-20.svg",
+    "name_rus": "Азорские острова",
+    "component": "pt20"
+  },
+  {
+    "name": "Madeira",
+    "dial_code": "+351 (291)",
+    "code": "PT-30",
+    "flag_file": "pt-30.svg",
+    "name_rus": "Мадейра",
+    "component": "pt30"
+  },
+  {
+    "name": "Puerto Rico",
+    "dial_code": "+1939",
+    "code": "PR",
+    "flag_file": "pr.svg",
+    "name_rus": "Пуэрто-Рико",
+    "component": "pr"
+  },
+  {
+    "name": "Qatar",
+    "dial_code": "+974",
+    "code": "QA",
+    "flag_file": "qa.svg",
+    "name_rus": "Катар",
+    "component": "qa"
+  },
+  {
+    "name": "Romania",
+    "dial_code": "+40",
+    "code": "RO",
+    "flag_file": "ro.svg",
+    "name_rus": "Румыния",
+    "component": "ro"
+  },
+  {
+    "name": "Russia",
+    "dial_code": "+7",
+    "code": "RU",
+    "flag_file": "ru.svg",
+    "name_rus": "Россия",
+    "component": "ru"
+  },
+  {
+    "name": "Republic of North Ossetia–Alania",
+    "dial_code": "+7",
+    "code": "RU-SE",
+    "flag_file": "ru-se.svg",
+    "name_rus": "Северная Осетия",
+    "component": "ruSe"
+  },
+  {
+    "name": "Rwanda",
+    "dial_code": "+250",
+    "code": "RW",
+    "flag_file": "rw.svg",
+    "name_rus": "Руанда",
+    "component": "rw"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "dial_code": "+590",
+    "code": "BL",
+    "flag_file": "bl.svg",
+    "name_rus": "Сен-Бартелеми",
+    "component": "bl"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "dial_code": "+1869",
+    "code": "KN",
+    "flag_file": "kn.svg",
+    "name_rus": "Сент-Китс и Невис",
+    "component": "kn"
+  },
+  {
+    "name": "Saint Lucia",
+    "dial_code": "+1758",
+    "code": "LC",
+    "flag_file": "lc.svg",
+    "name_rus": "Сент-Люсия",
+    "component": "lc"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "dial_code": "+1784",
+    "code": "VC",
+    "flag_file": "vc.svg",
+    "name_rus": "Сент-Винсент и Гренадины",
+    "component": "vc"
+  },
+  {
+    "name": "Samoa",
+    "dial_code": "+685",
+    "code": "WS",
+    "flag_file": "ws.svg",
+    "name_rus": "Самоа",
+    "component": "ws"
+  },
+  {
+    "name": "San Marino",
+    "dial_code": "+378",
+    "code": "SM",
+    "flag_file": "sm.svg",
+    "name_rus": "Сан-Марино",
+    "component": "sm"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "dial_code": "+239",
+    "code": "ST",
+    "flag_file": "st.svg",
+    "name_rus": "Сан-Томе и Принсипи",
+    "component": "st"
+  },
+  {
+    "name": "Saudi Arabia",
+    "dial_code": "+966",
+    "code": "SA",
+    "flag_file": "sa.svg",
+    "name_rus": "Саудовская Аравия",
+    "component": "sa"
+  },
+  {
+    "name": "Senegal",
+    "dial_code": "+221",
+    "code": "SN",
+    "flag_file": "sn.svg",
+    "name_rus": "Сенегал",
+    "component": "sn"
+  },
+  {
+    "name": "Serbia",
+    "dial_code": "+381",
+    "code": "RS",
+    "flag_file": "rs.svg",
+    "name_rus": "Сербия",
+    "component": "rs"
+  },
+  {
+    "name": "Seychelles Islands",
+    "dial_code": "+248",
+    "code": "SC",
+    "flag_file": "sc.svg",
+    "name_rus": "Сейшельские Острова",
+    "component": "sc"
+  },
+  {
+    "name": "Sierra Leone",
+    "dial_code": "+232",
+    "code": "SL",
+    "flag_file": "sl.svg",
+    "name_rus": "Сьерра-Леоне",
+    "component": "sl"
+  },
+  {
+    "name": "Singapore",
+    "dial_code": "+65",
+    "code": "SG",
+    "flag_file": "sg.svg",
+    "name_rus": "Сингапур",
+    "component": "sg"
+  },
+  {
+    "name": "Slovakia",
+    "dial_code": "+421",
+    "code": "SK",
+    "flag_file": "sk.svg",
+    "name_rus": "Словакия",
+    "component": "sk"
+  },
+  {
+    "name": "Slovenia",
+    "dial_code": "+386",
+    "code": "SI",
+    "flag_file": "si.svg",
+    "name_rus": "Словения",
+    "component": "si"
+  },
+  {
+    "name": "Solomon Islands",
+    "dial_code": "+677",
+    "code": "SB",
+    "flag_file": "sb.svg",
+    "name_rus": "Соломоновы Острова",
+    "component": "sb"
+  },
+  {
+    "name": "Somalia",
+    "dial_code": "+252",
+    "code": "SO",
+    "flag_file": "so.svg",
+    "name_rus": "Сомали",
+    "component": "so"
+  },
+  {
+    "name": "South Africa",
+    "dial_code": "+27",
+    "code": "ZA",
+    "flag_file": "za.svg",
+    "name_rus": "Южно-Африканская Республика",
+    "component": "za"
+  },
+  {
+    "name": "South Sudan",
+    "dial_code": "+211",
+    "code": "SS",
+    "flag_file": "ss.svg",
+    "name_rus": "Южный Судан",
+    "component": "ss"
+  },
+  {
+    "name": "Spain",
+    "dial_code": "+34",
+    "code": "ES",
+    "flag_file": "es.svg",
+    "name_rus": "Испания",
+    "component": "es"
+  },
+  {
+    "name": "Melilla",
+    "dial_code": "+34",
+    "code": "ES-ML",
+    "flag_file": "es-ml.svg",
+    "name_rus": "Мелилья",
+    "component": "esMl"
+  },
+  {
+    "name": "Ceuta",
+    "dial_code": "+34",
+    "code": "ES-CE",
+    "flag_file": "es-ce.svg",
+    "name_rus": "Суета",
+    "component": "esCe"
+  },
+  {
+    "name": "Canary Islands",
+    "dial_code": "+34",
+    "code": "ES-CN",
+    "flag_file": "es-cn.svg",
+    "name_rus": "Канарские острова",
+    "component": "esCn"
+  },
+  {
+    "name": "Balears Islands",
+    "dial_code": "+34 971",
+    "code": "ES-IB",
+    "flag_file": "es-ib.svg",
+    "name_rus": "Балеарские острова",
+    "component": "esIb"
+  },
+  {
+    "name": "Basque Country",
+    "dial_code": "+34 94-",
+    "code": "ES-PV",
+    "flag_file": "es-pv.svg",
+    "name_rus": "Страна Басков",
+    "component": "esPv"
+  },
+  {
+    "name": "Sri Lanka",
+    "dial_code": "+94",
+    "code": "LK",
+    "flag_file": "lk.svg",
+    "name_rus": "Шри-Ланка",
+    "component": "lk"
+  },
+  {
+    "name": "Sudan",
+    "dial_code": "+249",
+    "code": "SD",
+    "flag_file": "sd.svg",
+    "name_rus": "Судан",
+    "component": "sd"
+  },
+  {
+    "name": "Suriname",
+    "dial_code": "+597",
+    "code": "SR",
+    "flag_file": "sr.svg",
+    "name_rus": "Суринам",
+    "component": "sr"
+  },
+  {
+    "name": "Eswatini",
+    "dial_code": "+268",
+    "code": "SZ",
+    "flag_file": "sz.svg",
+    "name_rus": "Свазиленд",
+    "component": "sz"
+  },
+  {
+    "name": "Sweden",
+    "dial_code": "+46",
+    "code": "SE",
+    "flag_file": "se.svg",
+    "name_rus": "Швеция",
+    "component": "se"
+  },
+  {
+    "name": "Switzerland",
+    "dial_code": "+41",
+    "code": "CH",
+    "flag_file": "ch.svg",
+    "name_rus": "Швейцария",
+    "component": "ch"
+  },
+  {
+    "name": "Syria",
+    "dial_code": "+963",
+    "code": "SY",
+    "flag_file": "sy.svg",
+    "name_rus": "Сирия",
+    "component": "sy"
+  },
+  {
+    "name": "Taiwan",
+    "dial_code": "+886",
+    "code": "TW",
+    "flag_file": "tw.svg",
+    "name_rus": "Тайвань",
+    "component": "tw"
+  },
+  {
+    "name": "Tajikistan",
+    "dial_code": "+992",
+    "code": "TJ",
+    "flag_file": "tj.svg",
+    "name_rus": "Таджикистан",
+    "component": "tj"
+  },
+  {
+    "name": "Tanzania",
+    "dial_code": "+255",
+    "code": "TZ",
+    "flag_file": "tz.svg",
+    "name_rus": "Танзания",
+    "component": "tz"
+  },
+  {
+    "name": "Thailand",
+    "dial_code": "+66",
+    "code": "TH",
+    "flag_file": "th.svg",
+    "name_rus": "Таиланд",
+    "component": "th"
+  },
+  {
+    "name": "Timor-Leste",
+    "dial_code": "+670",
+    "code": "TL",
+    "flag_file": "tl.svg",
+    "name_rus": "Восточный Тимор",
+    "component": "tl"
+  },
+  {
+    "name": "Togo",
+    "dial_code": "+228",
+    "code": "TG",
+    "flag_file": "tg.svg",
+    "name_rus": "Того",
+    "component": "tg"
+  },
+  {
+    "name": "Tokelau",
+    "dial_code": "+690",
+    "code": "TK",
+    "flag_file": "tk.svg",
+    "name_rus": "Токелау",
+    "component": "tk"
+  },
+  {
+    "name": "Tonga",
+    "dial_code": "+676",
+    "code": "TO",
+    "flag_file": "to.svg",
+    "name_rus": "Тонга",
+    "component": "to"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "dial_code": "+1868",
+    "code": "TT",
+    "flag_file": "tt.svg",
+    "name_rus": "Тринидад и Тобаго",
+    "component": "tt"
+  },
+  {
+    "name": "Tunisia",
+    "dial_code": "+216",
+    "code": "TN",
+    "flag_file": "tn.svg",
+    "name_rus": "Тунис",
+    "component": "tn"
+  },
+  {
+    "name": "Turkey",
+    "dial_code": "+90",
+    "code": "TR",
+    "flag_file": "tr.svg",
+    "name_rus": "Турция",
+    "component": "tr"
+  },
+  {
+    "name": "Turkmenistan",
+    "dial_code": "+993",
+    "code": "TM",
+    "flag_file": "tm.svg",
+    "name_rus": "Туркмения",
+    "component": "tm"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "dial_code": "+1649",
+    "code": "TC",
+    "flag_file": "tc.svg",
+    "name_rus": "Теркс и Кайкос",
+    "component": "tc"
+  },
+  {
+    "name": "Tuvalu",
+    "dial_code": "+688",
+    "code": "TV",
+    "flag_file": "tv.svg",
+    "name_rus": "Тувалу",
+    "component": "tv"
+  },
+  {
+    "name": "Uganda",
+    "dial_code": "+256",
+    "code": "UG",
+    "flag_file": "ug.svg",
+    "name_rus": "Уганда",
+    "component": "unitednations"
+  },
+  {
+    "name": "Ukraine",
+    "dial_code": "+380",
+    "code": "UA",
+    "flag_file": "ua.svg",
+    "name_rus": "Украина",
+    "component": "ua"
+  },
+  {
+    "name": "United Arab Emirates",
+    "dial_code": "+971",
+    "code": "AE",
+    "flag_file": "ae.svg",
+    "name_rus": "Объединённые Арабские Эмираты",
+    "component": "ae"
+  },
+  {
+    "name": "United Kingdom",
+    "dial_code": "+44",
+    "code": "GB",
+    "flag_file": "gb.svg",
+    "name_rus": "Великобритания",
+    "component": "gb"
+  },
+  {
+    "name": "Orkney",
+    "dial_code": "+44",
+    "code": "GB-ORK",
+    "flag_file": "gb-ork.svg",
+    "name_rus": "Оркнейские острова",
+    "component": "gbOrk"
+  },
+  {
+    "name": "Scotland",
+    "dial_code": "+44",
+    "code": "GB-SCT",
+    "flag_file": "gb-sct.svg",
+    "name_rus": "Шотландия",
+    "component": "gbSct"
+  },
+  {
+    "name": "Wales",
+    "dial_code": "+44",
+    "code": "GB-WLS",
+    "flag_file": "gb-wls.svg",
+    "name_rus": "Уэльс",
+    "component": "gbWls"
+  },
+  {
+    "name": "England",
+    "dial_code": "+44",
+    "code": "GB-ENG",
+    "flag_file": "gb-eng.svg",
+    "name_rus": "Англия",
+    "component": "gbEng"
+  },
+  {
+    "name": "United States",
+    "dial_code": "+1",
+    "code": "US",
+    "flag_file": "us.svg",
+    "name_rus": "Соединённые Штаты Америки",
+    "component": "us"
+  },
+  {
+    "name": "Hawaii",
+    "dial_code": "+1",
+    "code": "US-HI",
+    "flag_file": "us-hi.svg",
+    "name_rus": "Гавайи",
+    "component": "usHi"
+  },
+  {
+    "name": "Uruguay",
+    "dial_code": "+598",
+    "code": "UY",
+    "flag_file": "uy.svg",
+    "name_rus": "Уругвай",
+    "component": "uy"
+  },
+  {
+    "name": "Uzbekistan",
+    "dial_code": "+998",
+    "code": "UZ",
+    "flag_file": "uz.svg",
+    "name_rus": "Узбекистан",
+    "component": "uz"
+  },
+  {
+    "name": "Vanuatu",
+    "dial_code": "+678",
+    "code": "VU",
+    "flag_file": "vu.svg",
+    "name_rus": "Вануату",
+    "component": "vu"
+  },
+  {
+    "name": "Venezuela",
+    "dial_code": "+58",
+    "code": "VE",
+    "flag_file": "ve.svg",
+    "name_rus": "Венесуэла",
+    "component": "ve"
+  },
+  {
+    "name": "Vietnam",
+    "dial_code": "+84",
+    "code": "VN",
+    "flag_file": "vn.svg",
+    "name_rus": "Вьетнам",
+    "component": "vn"
+  },
+  {
+    "name": "British Virgin Islands",
+    "dial_code": "+1284",
+    "code": "VG",
+    "flag_file": "vg.svg",
+    "name_rus": "Британские Виргинские острова",
+    "component": "vg"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "dial_code": "+1340",
+    "code": "VI",
+    "flag_file": "vi.svg",
+    "name_rus": "Виргинские Острова",
+    "component": "vi"
+  },
+  {
+    "name": "Yemen",
+    "dial_code": "+967",
+    "code": "YE",
+    "flag_file": "ye.svg",
+    "name_rus": "Йемен",
+    "component": "ye"
+  },
+  {
+    "name": "Zambia",
+    "dial_code": "+260",
+    "code": "ZM",
+    "flag_file": "zm.svg",
+    "name_rus": "Замбия",
+    "component": "zm"
+  },
+  {
+    "name": "Zimbabwe",
+    "dial_code": "+263",
+    "code": "ZW",
+    "flag_file": "zw.svg",
+    "name_rus": "Зимбабве",
+    "component": "zw"
+  },
+  {
+    "name": "Abkhazia",
+    "dial_code": "+995",
+    "code": "GE-AB",
+    "flag_file": "ge-ab.svg",
+    "name_rus": "Абхазия",
+    "component": "geAb"
+  }
+]

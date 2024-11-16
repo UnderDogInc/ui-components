@@ -1,0 +1,10 @@
+.icon {
+  .half {
+    display: none;
+  }
+  &__half {
+    .half {
+      display: block;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+@tailwind utilities;
+
+.block__header {
+  @apply ui-flex ui-mb-[8px] ui-p-[4px] ui-bg-black-50 ui-rounded-sm;
+
+  > * {
+    @apply ui-flex-[1] ui-h-[48px] ui-flex ui-justify-center ui-items-center ui-transition ui-bg-transparent;
+
+    &.active {
+      @apply ui-bg-white-900 ui-rounded-[4px] ui-shadow-sm;
+    }
+  }
+}

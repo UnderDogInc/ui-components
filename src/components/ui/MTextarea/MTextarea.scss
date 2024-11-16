@@ -1,0 +1,14 @@
+@tailwind utilities;
+
+@layer utilities {
+  .m-textarea {
+    @apply ui-px-[10px] ui-py-[12px] ui-w-full ui-text-p14-semibold ui-font-semibold ui-outline-0 ui-resize-none ui-rounded-base ui-border-[2px] ui-transition-[border-color];
+
+    &-resize {
+      @apply ui-resize-y;
+    }
+    &-lable {
+      @apply ui-font-semibold ui-text-p12-semibold ui-block ui-mb-[12px] ui-cursor-pointer;
+    }
+  }
+}

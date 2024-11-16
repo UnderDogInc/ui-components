@@ -1,0 +1,51 @@
+@tailwind utilities;
+
+.block {
+  &__cdek-list {
+    @apply ui-m-0 ui-p-[12px] ui-pb-0 ui-mb-[12px];
+
+    > * {
+      @apply ui-mb-[8px] last:ui-mb-0;
+    }
+    &-wrap {
+      @apply -ui-mx-[12px];
+      > * {
+        @apply ui-p-[12px];
+      }
+
+    }
+
+    &__item {
+      @apply ui-p-[16px] ui-rounded-base ui-border-[2px] ui-border-black-100 ui-cursor-pointer ui-transition-all max-768px:ui-text-p14;
+
+      &-active {
+        @apply ui-border-primary-900;
+      }
+      
+      > *:not(:last-child) {
+        @apply ui-mb-[6px] ui-text-p14-medium ui-text-black-900 max-768px:ui-mb-[4px];
+      }
+
+      &-name {
+        @apply ui-text-p16-semibold ui-font-semibold ui-text-black-900 ui-mb-[12px] #{!important};
+      }
+
+      &-image {
+        @apply ui-w-[60px] ui-h-[60px] ui-m-[6px] ui-rounded-sm ui-overflow-hidden max-768px:ui-w-[40px] max-768px:ui-h-[40px];
+
+        > img {
+          @apply ui-w-full ui-h-full ui-object-cover;
+        }
+
+        &-wrap {
+          @apply ui-flex-wrap ui-flex -ui-m-[6px] ui-w-[calc(100%_+_6px)] ui-mt-[12px];
+        }
+      }
+
+      &:hover {
+        @apply ui-border-primary-900;
+      }
+    }
+
+  }
+}

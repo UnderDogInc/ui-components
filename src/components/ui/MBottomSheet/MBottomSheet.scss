@@ -1,0 +1,14 @@
+.bottom-sheet-enter-active,
+.bottom-sheet-leave-active {
+  transition: .2s ease;
+  .bottom-sheet {
+    transition: .2s ease;
+  }
+}
+
+.bottom-sheet-enter-from,
+.bottom-sheet-leave-to {
+  .bottom-sheet {
+    transform: translateY(100%);
+  }
+}

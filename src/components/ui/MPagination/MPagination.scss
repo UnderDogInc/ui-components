@@ -1,0 +1,27 @@
+@tailwind utilities;
+
+.m-pagination {
+
+  &__search {
+    .m-input {      
+      .m-input__icon--wrap-prepend {
+        @apply ui-p-[2px];
+      }
+
+      @apply ui-h-[32px];
+    }
+
+  }
+
+  > *:not(:last-child) {
+    margin-right: 8px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .m-pagination {
+    > *:not(:last-child) {
+      margin-right: 4px;
+    }
+  }
+}
